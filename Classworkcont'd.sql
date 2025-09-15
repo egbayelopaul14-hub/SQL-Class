@@ -1,0 +1,5 @@
+SELECT TOP (1000) [CustomerID]
+      ,[FirstName]
+      ,[LastName]
+      ,[City]
+  FROM [Classwork1].[dbo].[CustomerData]
